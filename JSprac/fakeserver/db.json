@@ -1,0 +1,65 @@
+{
+  "empDetails": [
+    {
+      "id": 0,
+      "fname": "peter",
+      "email": "peter@gmail.com",
+      "city": "Delhi"
+    },
+    {
+      "id": 2,
+      "fname": "carr",
+      "email": "carry@gmail.com",
+      "city": "Pune",
+      "phone": "344325435"
+    },
+    {
+      "id": 3,
+      "fname": "Brijesh",
+      "email": "Brijesh@gmail.com",
+      "city": "Kolkata"
+    },
+    {
+      "id": 1658745100846,
+      "fname": "Sarthak",
+      "email": "sarthak@gmail.com",
+      "phone": "13424"
+    },
+    {
+      "id": 1658745406069,
+      "fname": "Subhrangshu",
+      "email": "subh@gmail.com",
+      "phone": "21412424"
+    },
+    {
+      "id": 1658748431078,
+      "fname": "Bimlesh",
+      "email": "bimlesh@gmail.com",
+      "phone": "6321738879"
+    },
+    {
+      "id": 1658753546369,
+      "fname": "Pranjal",
+      "email": "jdsds@gmail.com",
+      "phone": "3234543"
+    },
+    {
+      "id": 1658778474514,
+      "fname": "Akhilesh",
+      "email": "akhilesh@gmail.com",
+      "phone": "672467181"
+    },
+    {
+      "id": 1658778501665,
+      "fname": "Akash",
+      "email": "akash@gmail.com",
+      "phone": "657287199"
+    },
+    {
+      "id": 1658779040050,
+      "fname": "wee",
+      "email": "wqe784374",
+      "phone": "424"
+    }
+  ]
+}

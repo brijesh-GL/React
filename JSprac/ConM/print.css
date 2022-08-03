@@ -1,0 +1,124 @@
+.container{
+    /* background-color:blanchedalmond; */
+    background-color:black
+  /* padding-top: 20px; */
+  
+}
+.c{
+    background-image: url("Bacgi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 10px;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  border: 2px solid crimson;
+  box-shadow: 2px 20px 15px #B93160;
+   border-radius: 30px;
+   margin-bottom: 50px;
+}
+#sub-btn:hover{
+    background-color: chartreuse;
+    transform: scale(1.3);
+}
+#sub-btn{
+    border: 2px solid crimson;
+    background-color: deeppink;
+    border-radius: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 30px;
+}
+#up-btn{
+    border: 2px solid crimson;
+    background-color: deeppink;
+    border-radius: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+#up-btn:hover{
+    background-color:orangered;
+    transform: scale(1.3);
+}
+.inp{
+    border: 1px solid crimson;
+    border-radius: 30px;
+}
+span{
+    color:#F73D93
+}
+
+.boxe{
+  margin: 20px;
+    border-radius: 30px;
+    padding: 0;
+    
+}
+#delete-btn{
+    border: 2px solid crimson;
+    background-color: deeppink;
+    border-radius: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+#edit-btn{
+    border: 2px solid crimson;
+    background-color:cyan;
+    border-radius: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 0 10px
+}
+#delete-btn:hover{
+    background-color:yellow;
+    transform: scale(1.2);
+}
+#edit-btn:hover{
+    background-color:greenyellow;
+    transform: scale(1.2);
+}
+.card-body{
+    border: 1px solid ;
+    border-radius: 10px;
+    background-color: #EAF6F6;
+    box-shadow: 10px 2px 10px crimson;
+    /* width: auto; */
+}
+.card{
+    margin-left: 50px;
+}
+h1{
+    color: #A47E3B;
+    font-weight: bolder;
+}
+h3{
+    color: white;
+    font-weight: bold;
+   
+}
+#ui-uname{
+    color: #7DCE13;
+}
+#sc{
+    border: 1px solid #EAE509;
+    border-radius: 30px;
+    background-color:#3D2C8D;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:white;
+    text-decoration:none;
+    padding: 8px;
+    font-size: 20px;
+    margin-left: 25%
+}
+
+#sc:hover{
+    background-color: #7DCE13;
+    transform: scale(1.2);
+}
+
+#phone{
+    margin-bottom: 100px;
+}

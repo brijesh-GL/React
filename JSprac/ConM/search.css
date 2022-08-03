@@ -1,0 +1,76 @@
+h3{
+    color: white;
+    font-weight: bold;
+    margin-top: 200px;
+}
+.cont{
+    margin-top: 30px;
+    margin-left: 30%;
+   
+  
+}
+#scu{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.container{
+    background-color: #03506F;
+    padding-bottom: 200px;
+    padding-top: 20px;
+    /* background-image: url("backgrus.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    
+}
+span{
+    color: #F10086;
+}
+#uname{
+    border: 2PX solid crimson;
+    border-radius: 30px;
+}
+#SUB{
+    border: 2PX solid crimson;
+    border-radius: 30px;
+    margin-left: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    background-color: #7DCE13;
+}
+#SUB:hover{
+    background-color: #F10086;
+    transform: scale(1.2);
+}
+.card-body{
+    border: 1px solid ;
+    border-radius: 10px;
+    background-color: #EAF6F6;
+    box-shadow: 10px 2px 10px crimson;
+    /* width: auto; */
+}
+.card{
+    margin-left: 50%;
+}
+h3{
+    color: white;
+    font-weight: bold;
+   
+}
+#delete-btn{
+    border: 2px solid crimson;
+    background-color: deeppink;
+    border-radius: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+#uiname{
+    color: #7DCE13;
+}
+.hom{
+    margin-left: 80%;
+    font-size: 20px;
+    color: crimson;
+}
